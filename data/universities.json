@@ -1,0 +1,2862 @@
+﻿[
+  {
+    "academic_year": "September to July (September-December; January-March; April-July)",
+    "funding": "Public",
+    "name": "Abdelmalek Essaâdi University",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.uae.ma",
+      "fax": "+212(539) 97-91-51",
+      "telephone": "+212(539) 97-93-16",
+      "email": "president@uae.ma"
+    },
+    "alt_name": "Université Abdelmalek Essaâdi",
+    "address": {
+      "province": null,
+      "city": "Tétouan",
+      "street": "B.P. 2117, Quartier M’haneche II, avenue Palestine",
+      "postal_code": "93030"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": "September to May (September-December; January-May). Also optional Summer Session (June-July)",
+    "funding": "Public",
+    "name": "Al Akhawayn University",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.aui.ma",
+      "fax": "+212(535) 56-71-50",
+      "telephone": "+212(535) 86-20-00",
+      "email": "communication@aui.ma"
+    },
+    "alt_name": "Université Al Akhawayn (AUI)",
+    "address": {
+      "province": null,
+      "city": "Ifrane",
+      "street": "BP 104, Avenue Hassan II",
+      "postal_code": "53000"
+    },
+    "accrediting_agency": "Ministère de l'Education nationale, de l'Enseignement supérieur, de la Formation des Cadres et de la Recherche scientifique"
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Business School of Marrakech",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.supdeco.ma",
+      "fax": "+212(524) 43-60-67",
+      "telephone": "+212(524) 43-33-93  +212(524) 43-60-00",
+      "email": "contact@supdeco.ma"
+    },
+    "alt_name": "Ecole supérieure de Commerce de Marrakech – Sup de Co (ESC)",
+    "address": {
+      "province": null,
+      "city": "Marrakech",
+      "street": "Bd prince My Abdellah, B.P. 595, Gueliz",
+      "postal_code": "40000"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": "September to June (September-December; January-April; May-June)",
+    "funding": "Public",
+    "name": "Cadi Ayyad University",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "https://www.uca.ma",
+      "fax": "+212(524) 43-44-94",
+      "telephone": "+212(524) 43-48-14",
+      "email": "ucacom@uca.com"
+    },
+    "alt_name": "Université Cadi Ayyad",
+    "address": {
+      "province": null,
+      "city": "Marrakech",
+      "street": "BP 511, Avenue Prince Abdellah",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": "September to July",
+    "funding": "Public",
+    "name": "Chouaïb Doukkali University",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.ucd.ac.ma",
+      "fax": "+212(523) 34-44-49",
+      "telephone": "+212(523) 34-44-47",
+      "email": "contact@ucd.ac.ma"
+    },
+    "alt_name": "Université Chouaïb Doukkali",
+    "address": {
+      "province": null,
+      "city": "El Jadida",
+      "street": "B.P.299, Avenue Jabran Khalil",
+      "postal_code": "24000"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": null,
+    "name": "École nationale supérieure d'informatique et d'analyse des systèmes",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://ensias.um5.ac.ma",
+      "fax": "+212(537) 777230",
+      "telephone": "+212(537) 778579",
+      "email": "info@ensias.um5.ac.ma"
+    },
+    "alt_name": null,
+    "address": {
+      "province": null,
+      "city": null,
+      "street": "Avenue Mohammed Ben Abdallah Regragui, Madinat Al Irfane, BP 713, Agdal Rabat, Maroc",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": "September to July",
+    "funding": "Private",
+    "name": "Graduate School of Management",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.esg.ma",
+      "fax": "+212(522) 31-56-26",
+      "telephone": "+212(522) 44-40-01",
+      "email": "infoesg@esg.ma"
+    },
+    "alt_name": "Groupe Ecole supérieur de gestion (ESG)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "32, rue El Bakri (ex Dumont D'urville)",
+      "postal_code": null
+    },
+    "accrediting_agency": "Ministère de l'Education nationale, de l'Enseignement supérieur, de la Formation des Cadres et de la Recherche scientifique"
+  },
+  {
+    "academic_year": "September to July",
+    "funding": "Public",
+    "name": "Hassan I University",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.uh1.ac.ma",
+      "fax": "+212(523) 72-12-74",
+      "telephone": "+212(523) 72-12-75 +212(523) 72-12-76",
+      "email": null
+    },
+    "alt_name": "Université Hassan 1er (UH1)",
+    "address": {
+      "province": null,
+      "city": "Settat",
+      "street": "BP. 539, Route de Casablanca, Km 3,5",
+      "postal_code": "26000"
+    },
+    "accrediting_agency": "National Commission"
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "Hassan II Institute of Agronomy and Veterinary Medicine",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.iav.ac.ma",
+      "fax": "+212(537) 77-58-45",
+      "telephone": "+212(537) 77-17-58",
+      "email": "sg@iav.ac.ma"
+    },
+    "alt_name": "Institut agronomique et vétérinaire Hassan II (IAV Hassan II)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "BP 6202 Rabat-Instituts, Madinat Al Irfane",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "Hassan II University of Casablanca – Advanced Technical Teacher Training College of Mohammedia",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.enset-media.ac.ma",
+      "fax": "+212(523) 32-25-46",
+      "telephone": "+212(523) 32-22-20",
+      "email": "enset-media@enset-media.ac.ma"
+    },
+    "alt_name": "Université Hassan II de Casablanca – Ecole normale supérieure de l'Enseignement technique de Mohammedia (ENSET Mohammedia)",
+    "address": {
+      "province": null,
+      "city": "Mohammedia",
+      "street": "BP 159, Bd Hassan II",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": "September to July",
+    "funding": "Public",
+    "name": "Hassan II University of Casablanca",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.uh2c.ac.ma",
+      "fax": "+212(520) 42-09-59",
+      "telephone": "+212(6) 14-000-400/401/402/403",
+      "email": "univh2c@univh2c.ma"
+    },
+    "alt_name": "Université Hassan II de Casablanca",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "BP 9167, 19, rue Tarik Ibnou Ziad, Mers Sultan",
+      "postal_code": "21100"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "Hassania School of Civil Engineering",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.ehtp.ac.ma",
+      "fax": "+212(522) 42-05-26  +212(522) 23-07-17",
+      "telephone": "+212(522) 99-87-30  +212(522) 23-07-06",
+      "email": "info@ehtp.ac.ma; ehtpdg@ehtp.ac.ma"
+    },
+    "alt_name": "Ecole Hassania des Travaux publics (EHTP)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "Km 7, Route d'El Jadida, BP 8108 Oasis",
+      "postal_code": "20230"
+    },
+    "accrediting_agency": "Ministère de l'Equipement et des Transports"
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "HECGI Business School",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.hecgi.ma/",
+      "fax": null,
+      "telephone": "+212(537) 37-33-47",
+      "email": "kenitra.hecgi@gmail.com"
+    },
+    "alt_name": "Hautes études de commerce de gestion et d'informatique (HECGI)",
+    "address": {
+      "province": null,
+      "city": "Kenitra",
+      "street": "Immeuble 49, Rue Jamil Sidqui Zouhaoui, Résidence Douaa Charq",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": "September to July",
+    "funding": "Private",
+    "name": "HEM Business School",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.hem.ac.ma",
+      "fax": "+212(522) 21-55-30",
+      "telephone": "+212(522) 52-52-52",
+      "email": "hem@hem.ac.ma"
+    },
+    "alt_name": "HEM - Institut des hautes Etudes de Management",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "Avenue El Qods - Quartier Californie",
+      "postal_code": "20150"
+    },
+    "accrediting_agency": "Ministry of Higher Education, Training Managers and Scientific Research"
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "HESTIM School",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.hestim.ma",
+      "fax": "+212(522) 34-17-25",
+      "telephone": "+212(522) 34-17-23/24",
+      "email": "contact@hestim.ma"
+    },
+    "alt_name": "Ecole des hautes Etudes des Sciences et Techniques de l'Ingénierie et du Management. (HESTIM)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "34, Boulevard Chefchaouni, Lotissement Angel, Ain Sebaa",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "High Technology School in Morocco",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.hightech.edu",
+      "fax": "+212(537) 67-09-86",
+      "telephone": "+212(537) 67-09-99",
+      "email": "contact@hightech.edu"
+    },
+    "alt_name": "(High-Tech)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "34, rue Jabal Al Ayachi, Agdal",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Higher Institute of Electronics and Telecommunications Networks",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": null,
+      "fax": "+212(522) 45-08-47",
+      "telephone": "+212(522) 45-08-45",
+      "email": "scolarite@isert.ma"
+    },
+    "alt_name": "Institut supérieur d'Electronique et des Réseaux de Télécommunications (ISERT)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "30, rue Kamal Mohammed",
+      "postal_code": "20000"
+    },
+    "accrediting_agency": "Ministère de l'Education nationale, de l'Enseignement supérieur, de la Formation des Cadres et de la Recherche scientifique"
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Higher Institute of Food Sciences",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.isfort-maroc.com",
+      "fax": "+212(522) 44-88-26",
+      "telephone": "+212(522) 44-88-28",
+      "email": "isfort.direction@gmail.com"
+    },
+    "alt_name": "Institut supérieur de Formation en Technologie alimentaire (ISFORT)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "94, rue Allal Ben Abdellah",
+      "postal_code": "20000"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "Higher Magistracy Institute",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.ism.ma",
+      "fax": "+212(537) 75-49-02",
+      "telephone": "+212(537) 75-19-92  +212(537) 75-39-16",
+      "email": "ism@ism.ma"
+    },
+    "alt_name": "Institut supérieur de la Magistrature (ISM)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "PO Box 1007, Boulevard Mehdi Ben Berka, Souissi",
+      "postal_code": null
+    },
+    "accrediting_agency": "International Agency of Cooperation"
+  },
+  {
+    "academic_year": "September to July",
+    "funding": "Public",
+    "name": "Ibn Tofail University",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.uit.ac.ma",
+      "fax": "+212(537) 37-40-52",
+      "telephone": "+212(537) 32-92-00",
+      "email": "m.damir@uit.ac.ma"
+    },
+    "alt_name": "Université Ibn Tofail",
+    "address": {
+      "province": null,
+      "city": "Kénitra",
+      "street": "BP 242",
+      "postal_code": "14000"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": "September to July (September-December; January-March; April-July)",
+    "funding": "Public",
+    "name": "Ibn Zohr University",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.uiz.ac.ma",
+      "fax": "+212(528) 22-72-60",
+      "telephone": "+212(528) 22-71-25",
+      "email": "sumi@uiz.ac.ma"
+    },
+    "alt_name": "Université Ibn Zohr (UIZ)",
+    "address": {
+      "province": null,
+      "city": "Agadir",
+      "street": "BP 32/S",
+      "postal_code": "80000"
+    },
+    "accrediting_agency": "Ministère de l'Education nationale, de l'Enseignement supérieur, de la Formation des Cadres et de la Recherche scientifique"
+  },
+  {
+    "academic_year": "September to June (September-December; January-June)",
+    "funding": "Private",
+    "name": "Institute for Leadership and Communication Studies",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.ilcs.ac.ma",
+      "fax": "+212(537) 67-59-65",
+      "telephone": "+212(537) 67-59-68",
+      "email": "ilcs.adm@ilcs.ac.ma"
+    },
+    "alt_name": "(ILCS Rabat)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "29 rue Oukaimeden, Agdal",
+      "postal_code": "10080"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": "October to June",
+    "funding": "Private",
+    "name": "Institute for Management Techniques Studies",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.isfoteg.ma",
+      "fax": "+212(539) 37-17-71",
+      "telephone": "+212(539) 93-71-01",
+      "email": "isfoteg@menara.ma"
+    },
+    "alt_name": "Institut supérieur de Formation aux Techniques de Gestion (ISFOTEG)",
+    "address": {
+      "province": null,
+      "city": "Tanger",
+      "street": "47, boulevard Pasteur",
+      "postal_code": "90000"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Institute of Accountancy, Audit and Finance",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.iscaf.net",
+      "fax": "+212(522) 86-24-40",
+      "telephone": "+212(522) 86-20-40",
+      "email": "iscaf@iscaf.ma"
+    },
+    "alt_name": "Institut supérieur de Comptabilité, Audit et Finance (ISCAF)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "21, rue de l'Olympe, Quartier des Hôpitaux",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Institute of Advanced Banking, Finance and Management Studies - Casablanca",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.hbfa.ma",
+      "fax": "+212(522) 47-65-57",
+      "telephone": "+212(522) 47-65-56",
+      "email": "sarah.belacheheb@hbfa.ma; at.rzik@gmail.com"
+    },
+    "alt_name": "Institut des hautes Etudes en Banque, Finance et Assurances - Casablanca (HBFA)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "4, rue Van Zeeland angle 113 Bd Abdelmoumen Quartier des Hôpitaux",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Institute of Advanced Economic and Social Studies",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.groupeihees.com",
+      "fax": "+212(522) 54-33-63",
+      "telephone": "+212(522) 30-24-20",
+      "email": "contact@groupeihees.com"
+    },
+    "alt_name": "Institut des hautes Etudes économiques et sociales (IHEES)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "3 rue Taieb Abdelkrim",
+      "postal_code": "20 000"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Institute of Advanced Studies in Sustainable Development",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.ishedd.com",
+      "fax": null,
+      "telephone": "+212(537) 77-99-76",
+      "email": "info@ishedd.com"
+    },
+    "alt_name": "Institut supérieur des Hautes Etudes en développement durable (ISHEDD)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "15 Bis, Rue Darâa, Agdal",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Institute of Applied Computer Studies and Management",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.isiam.ma",
+      "fax": "+212(528) 22-33-68",
+      "telephone": "+212(528) 22-32-10",
+      "email": "info@isiam.ma"
+    },
+    "alt_name": "Institut supérieur d'Informatique appliquée et de Management (ISIAM)",
+    "address": {
+      "province": null,
+      "city": "Agadir",
+      "street": "BP 805, Boulevard Hassan 1er",
+      "postal_code": null
+    },
+    "accrediting_agency": "Ministère de l’Enseignement Supérieur et la Recherche scientifique"
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Institute of Applied Engineering - Rabat",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.iga-rabat.ma",
+      "fax": "+212(537) 77-14-72",
+      "telephone": "+212(537) 77-14-68",
+      "email": "iga@iga.ma"
+    },
+    "alt_name": "Institut supérieur du Génie appliqué - Rabat (ISGA Rabat)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "27, rue Oqba, Agdal",
+      "postal_code": "10000"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": "October to June",
+    "funding": "Private",
+    "name": "Institute of Commerce and Management",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://isg.ma/isgc",
+      "fax": "+212(522) 47-46-43",
+      "telephone": "+212(522) 26-63-12",
+      "email": "info@isg.ma"
+    },
+    "alt_name": "Institut supérieur de Gestion et de Commerce (ISG Commerce)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "23, rue Hafid Ibrahim, Quartier Gauthier",
+      "postal_code": "20060"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "Institute of Commercial Studies and Business Administration",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.groupeiscae.ma",
+      "fax": "+212(522) 33-54-96",
+      "telephone": "+212(522) 33-54-82",
+      "email": "iscae@groupeiscae.ma"
+    },
+    "alt_name": "Institut supérieur de Commerce et d'Administration des Entreprises (ISCAE)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "BP 8114, Km 9,5 route de Nouasseur, Oasis",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Institute of Communication and Business Studies",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.iesca.ma",
+      "fax": null,
+      "telephone": "+212(523) 48-45-50",
+      "email": "contact@iesca.ma"
+    },
+    "alt_name": "Institut d’Etudes Supérieures de Communication et des Affaires (IESCA)",
+    "address": {
+      "province": null,
+      "city": "Beni Mellal",
+      "street": "210 Bd Ibn Khaldoune",
+      "postal_code": "23000"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "Institute of Dramatic Arts and Cultural Studies",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": null,
+      "fax": "+212 (537) 77-28-60",
+      "telephone": "+212 (537) 77-28-46",
+      "email": "dje2451@yahoo.fr"
+    },
+    "alt_name": "Institut supérieur d'Art dramatique et d'Animation culturelle (ISADAC)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "BP 6834, Avenue Allal Fassi, Madinat Al Irfane",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "Institute of Information and Communication",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.isic.ma",
+      "fax": "+212(537) 77-27-89",
+      "telephone": "+212(537) 77-33-40",
+      "email": "contact@isic.ma"
+    },
+    "alt_name": "Institut supérieur de l'Information et de la Communication (ISIC)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "BP 6205, Madinat Al Irfane, Avenue Allal Al Fassi",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Institute of Journalism and Communication",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.isjc-press.com",
+      "fax": "+212(522) 54-06-20",
+      "telephone": "+212(522) 30-87-10",
+      "email": null
+    },
+    "alt_name": "Institut supérieur du Journalisme et de Communication (ISJC)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "47, bd Rahal Al Meskini 1er étage",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Institute of Journalism and Information",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.ifjsup.com",
+      "fax": "+212(522) 44-06-89",
+      "telephone": "+212(522) 49-29-94",
+      "email": "infos@ifj-sup.com; ifjsup2013@gmail.com"
+    },
+    "alt_name": "Institut supérieur du Journalisme et de l'Information (IFJ SUP)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "97, avenue Hassan Seghir- Derb Omar",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "Institute of Marine Studies",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.isem.ac.ma",
+      "fax": "+212(522) 23-15-68",
+      "telephone": "+212(522) 23-07-44",
+      "email": "isem@isem.ac.ma"
+    },
+    "alt_name": "Institut supérieur des Etudes maritimes (ISEM)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "Km 7, Route d'El Jadida",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Institute of Transport and Logistics",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.istl.ma",
+      "fax": "+212(522) 40-62-04",
+      "telephone": "+212(522) 24-64-64",
+      "email": "contact@istl.ma"
+    },
+    "alt_name": "Institut supérieur du Transport et de la Logistique (ISTL)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "Km7, rue Guiriane -ex. Vuillanier - Ain Sebaa",
+      "postal_code": "20580"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "International Institute for Higher Education in Morocco",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.iihem.ac.ma",
+      "fax": "+212(537) 65-97-70",
+      "telephone": "+212(537)  65- 68-68; +212(537) 65-92-92",
+      "email": "info@iihem.ac.ma"
+    },
+    "alt_name": "(IIHEM)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "Avenue Mohamed VI, Km 4,2 (Route des Zaërs), Souissi",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "International Institute of Tourism of Tangiers",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.isitt.ma",
+      "fax": "+212(539) 94-59-05",
+      "telephone": "+212(539) 30-17-05",
+      "email": "isittinstitut@gmail.com"
+    },
+    "alt_name": "Institut supérieur international du Tourisme de Tanger (ISITT)",
+    "address": {
+      "province": null,
+      "city": "Tanger",
+      "street": "BP 1651, Baie de Tanger",
+      "postal_code": "90000"
+    },
+    "accrediting_agency": "Ministry of Tourism"
+  },
+  {
+    "academic_year": "September to June (September-January; February-June)",
+    "funding": "Private",
+    "name": "International School of Management - Casablanca Campus",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.esigmaroc.com",
+      "fax": "+212(522) 33-56-72",
+      "telephone": "+212(522) 33-50-78",
+      "email": "esigcasa@esigmaroc.com"
+    },
+    "alt_name": "Ecole supérieure internationale de Gestion - Campus Casablanca – Route de Nouasseur, Lot. La Colline II Sidi Maârouf (ESIG Casablanca)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "Route de Nouasseur, Lot. La Colline II Sidi Maârouf",
+      "postal_code": null
+    },
+    "accrediting_agency": "Ministère de l'Education nationale, de l'Enseignement supérieur, de la Formation des Cadres et de la Recherche scientifique"
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Knowledge Computer and Business Institute",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.knowledgecbi.net",
+      "fax": "+ 212(537) 77-46-47",
+      "telephone": "+ 212(537) 77-39-39",
+      "email": "admin@kcbi.ma"
+    },
+    "alt_name": "Knowledge CBI",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "34, Ang. Fal Ould Oumeir & Av. Oqba, Agdal",
+      "postal_code": null
+    },
+    "accrediting_agency": "Ministère de l'enseignement supérieur"
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Management and Technological Institute",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.matci.ac.ma",
+      "fax": "+212(522) 22-43-50",
+      "telephone": "+212(522) 22-09-09",
+      "email": "info@matci.ac.ma"
+    },
+    "alt_name": "Institut supérieur de Management et de Technologie (MATCI)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "3, rue Tarablous - Mers Sultan",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Management School of the South",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.esms.ma",
+      "fax": "+212(528) 23-23-73",
+      "telephone": "+212(528) 23-23-72",
+      "email": "contact@esms.ma"
+    },
+    "alt_name": "Ecole superieur de Management du Sud (ESMS - Agadir)",
+    "address": {
+      "province": null,
+      "city": "Agadir",
+      "street": "N° 2 Avenue Ahmed Al Mansour Dahbi, Cité Dakhla",
+      "postal_code": null
+    },
+    "accrediting_agency": "Ministère de l’enseignement Supérieur"
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "Meknes National School of Agriculture",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.enameknes.ma",
+      "fax": "+212(555) 30-02-38",
+      "telephone": "+212(555) 30-02-39/40/41",
+      "email": "ena@enameknes.ac.ma"
+    },
+    "alt_name": "Ecole nationale d'Agriculture de Meknès",
+    "address": {
+      "province": null,
+      "city": "Meknès",
+      "street": "Km10, Rte Haj Kaddour, BP S/40",
+      "postal_code": "50001"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": "October to June",
+    "funding": "Public",
+    "name": "Mohammed I University - Oujda",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.ump.ma",
+      "fax": "+212(536) 50-06-09",
+      "telephone": "+212(536) 50-06-12/14",
+      "email": "presidence@ump.ma"
+    },
+    "alt_name": "Université Mohammed Premier - Oujda – Jamiât Muhammad Al-Awwal",
+    "address": {
+      "province": null,
+      "city": "Oujda",
+      "street": "BP 524, BV Mohammed VI",
+      "postal_code": "60000"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": "September to June (September-December; January-March; April-June)",
+    "funding": "Public",
+    "name": "Mohammed V of Rabat",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.um5.ac.ma/um5r",
+      "fax": "+212(537) 67-14-01",
+      "telephone": "+212(537) 27-27-50",
+      "email": "presidence@um5a.ac.ma"
+    },
+    "alt_name": "Université Mohammed V de Rabat – Jamiât Mohammed Al-Khâmiss (UM5R)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "B.P. 8007 Nations-Unies, Avenue des Nations Unies, Agdal",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "Mohammed VI International Academy of Civil Aviation",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.aviation.ma",
+      "fax": "+212(522) 539-779",
+      "telephone": "+212(522) 539-619  +212(522) 538-480",
+      "email": "academie@onda.ma"
+    },
+    "alt_name": "Académie internationale Mohammed VI de l'Aviation civile (AIAC)",
+    "address": {
+      "province": "539-619",
+      "city": "Casablanca",
+      "street": "Technopole de l'Aéroport Mohammed V, Nouacer",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Moroccan Business School",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://esmhtg.ma",
+      "fax": "+212(537) 67-33-58",
+      "telephone": "+212(537) 67-33-57",
+      "email": "contact@esmhtg.ma"
+    },
+    "alt_name": "Ecole supérieure de Management Hôtelier et Gestion de l'Entreprise (ESMHTG)",
+    "address": {
+      "province": "123456",
+      "city": "Rabat",
+      "street": "16 Rue Zalagh Agdal",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Moroccan Institute of Management",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.imm.ac.ma",
+      "fax": "+212(522) 20-26-39",
+      "telephone": "+212(522) 20-22-88",
+      "email": "imm@imm.ac.ma"
+    },
+    "alt_name": "Institut Marocain de Management (IMM)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "Angle Bd Mohammed V, Rue Chaouia",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Moroccan School of Banking and International Trade",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.mbci.ma",
+      "fax": "+212(37) 63-12-12  +212(37) 63-43-41",
+      "telephone": "+212(37) 63-12-12  +212(37) 75-26-03  +212(37) 75-27-06",
+      "email": "mbci@menara.ma; mbci1@menara.ma"
+    },
+    "alt_name": "Ecole marocaine de Banque et de Commerce international - Rabat (MBCI)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "26 bis, Avenue du Souss, Souissi",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Moroccan School of Engineering",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.emg.ac.ma",
+      "fax": "+212(522) 49-00-06",
+      "telephone": "+212(522) 49-00-08",
+      "email": "info@emg.ac.ma"
+    },
+    "alt_name": "Ecole marocaine d'Ingénierie (EMG)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "392, Rue Mustapha El Mâani",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Morrocan School of Engineering",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.emsi.ma",
+      "fax": "+212(522) 54-31-66",
+      "telephone": "+212(522) 54-31-70",
+      "email": "info.casa@emsi.ma"
+    },
+    "alt_name": "Ecole marocaine des Sciences de l'Ingénieur, Casablanca (EMSI)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "154, Rue El Bakri",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Morrocan School of Translation and Interpretation",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://esmti-maroc.com",
+      "fax": "+212(522) 29-81-34",
+      "telephone": "+212(522) 29-81-34",
+      "email": "contact@esmti-maroc.com"
+    },
+    "alt_name": "Ecole Supérieure Marocaine de Traduction et d'Interprétariat (ESMTI)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "39 boulevard Mohammed V",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": "September to July (September-December; January-March; April-July)",
+    "funding": "Public",
+    "name": "Moulay Ismail University",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.umi.ac.ma",
+      "fax": "+212(535) 46-73-05",
+      "telephone": "+212(535) 46-73-06",
+      "email": "presidence@umi.ac.ma"
+    },
+    "alt_name": "Université Moulay Ismail",
+    "address": {
+      "province": null,
+      "city": "Meknès",
+      "street": "BP 298, Marjane II",
+      "postal_code": "5003"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Mundiapolis University",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.mundiapolis.ma",
+      "fax": null,
+      "telephone": "+212(529) 01-37-00",
+      "email": "contact@mundiapolis.ma"
+    },
+    "alt_name": "Université Mundiapolis de (MUNDIAPOLIS)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "Aéropole de formation, 52 Nouacer",
+      "postal_code": "20180"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "National Institute of Archaeology and Cultural Heritage",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.minculture.gov.ma/fr/index.php?option=com_content&view=article&id=413&Itemid=148&lang=fr",
+      "fax": "+212(537) 77-27-99",
+      "telephone": "+212(537) 77-77-16",
+      "email": "insap@menara.ma"
+    },
+    "alt_name": "Institut national des Sciences de l'Archéologie et du Patrimoine (INSAP)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "BP 6828. Rabat Instituts, Madinat al Irfane-Hay Riyad",
+      "postal_code": "10000"
+    },
+    "accrediting_agency": "Ministère de la Culture"
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "National Institute of Fine Art",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": null,
+      "fax": "+212(539) 96-42-92",
+      "telephone": "+212(539) 96-15-45",
+      "email": "inba1945@yahoo.fr"
+    },
+    "alt_name": "Institut national des Beaux-Arts (INBA Tétouan)",
+    "address": {
+      "province": null,
+      "city": "Tétouan",
+      "street": "BP 89, Avenue Mohamed V",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "National Institute of Post and Telecommunications",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.inpt.ac.ma",
+      "fax": "+212(537) 77-30-44",
+      "telephone": "+212(537) 77-30-79",
+      "email": "n.azami@inpt.ac.ma"
+    },
+    "alt_name": "Institut national des Postes et Télécommunications (INPT)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "2 Avenue Allal El Fasse, Madinat Al Irfane",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "National Institute of Statistics and Applied Economics",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.insea.ac.ma",
+      "fax": "+212(537) 77-94-57",
+      "telephone": "+212(537) 77-48-59",
+      "email": "webmaster@insea.ac.ma"
+    },
+    "alt_name": "Institut national de Statistique et d'Economie appliquée (INSEA)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "BP 6217 Rabat-Instituts",
+      "postal_code": "10100"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "National Institute of Urban and Territorial Planning",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.inau.ac.ma",
+      "fax": "+212(537) 77-50-09",
+      "telephone": "+212(537) 77-16-24",
+      "email": "inau@inau.ac.ma"
+    },
+    "alt_name": "Institut national d'Aménagement et d'Urbanisme (INAU)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "BP 6215, Avenue Allal El Fassi",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "National School of Administration - Rabat",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.ena.ac.ma",
+      "fax": "+212(537) 73-09-29",
+      "telephone": "+212(537) 72-44-00",
+      "email": "direction@ena.ac.ma"
+    },
+    "alt_name": "Ecole nationale d'Administration de Rabat (ENA)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "BP 165, 1, avenue de la Victoire",
+      "postal_code": "10000"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "National School of Architecture",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.archi.ac.ma",
+      "fax": "+212(537) 77-52-76",
+      "telephone": "+212(537) 67-84 51",
+      "email": "ena.archi.rabat@gmail.com; ena@archi.ac.ma"
+    },
+    "alt_name": "Ecole nationale d'Architecture (ENA)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "BP 6372, Avenue Allal El Fassi, Madinat Al Irfane- Rabat Instituts",
+      "postal_code": null
+    },
+    "accrediting_agency": "Ministère de l'Aménagement du Territoire, de l'Urbanisme et de l'Habitat"
+  },
+  {
+    "academic_year": "September to July",
+    "funding": "Public",
+    "name": "National School of Forestry Engineering",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://enfi-ma.net",
+      "fax": "+212(537) 86-11-49",
+      "telephone": "+212(537) 86-37-04",
+      "email": "enfisale@menara.ma; eauxetforets@iam.net.ma"
+    },
+    "alt_name": "Ecole nationale forestière d'Ingénieurs (ENFI)",
+    "address": {
+      "province": "3786 37 04",
+      "city": "Salé",
+      "street": "B.P. 511, Tabriquet",
+      "postal_code": "11000"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "National School of Public Health",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://ensp.sante.gov.ma",
+      "fax": "+212(537) 68-31-61",
+      "telephone": "+212(537) 68-31-61/62",
+      "email": "ensp@sante.gov.ma"
+    },
+    "alt_name": "Ecole nationale de santé publique (ENSP)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "BP 6329 , Rue Lamfadel Cherkaoui. Madinat Al Irfane",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "National School of the Mineral Industry",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.enim.ac.ma",
+      "fax": "+212(537) 77-10-55",
+      "telephone": "+212(537) 77-00-81",
+      "email": "info@enim.ac.ma"
+    },
+    "alt_name": "Ecole nationale de l'Industrie minérale (ENIM)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "Rue Abderrahim El Ghafiki, B.P 753",
+      "postal_code": null
+    },
+    "accrediting_agency": "Ministère de l'Energie et des Mines"
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Poly Management School",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.hep.ma/hep/index.html",
+      "fax": "+212(536) 50-54-10",
+      "telephone": "+212(536) 50-54-10",
+      "email": "ecolehepoujda@gmail.com; hepoudja@gmail.com"
+    },
+    "alt_name": "Ecole des hautes Etudes Poly Management (HEP Management)",
+    "address": {
+      "province": null,
+      "city": "Oujda",
+      "street": "9, rue Essakhra, Al Qods",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Polyvalent School of Computer Science and Electronics",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.epsiel.net",
+      "fax": "+212(535) 94-32-45",
+      "telephone": "+212(661) 48-02-26",
+      "email": "epsiel@epsiel.net"
+    },
+    "alt_name": "Ecole polyvalente supérieure d'Informatique et d'Electronique (EPSIEL)",
+    "address": {
+      "province": null,
+      "city": "Fès",
+      "street": "4 avenue Allal Ben Abdellal",
+      "postal_code": "30000"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Private International Institute of Management and Technology",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.piimt.us",
+      "fax": "+212(537) 75-67-88",
+      "telephone": "+212(537) 75-67-11",
+      "email": "webmaster@piimt.us"
+    },
+    "alt_name": "(PIIMT)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "13, Rue Qadi Ben Said El Filali, Av. John Kennedy, Souissi",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Private Polytechnic Institute of Casablanca",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.polytechnique.info",
+      "fax": "+212(522) 93-65-59",
+      "telephone": "+212(522) 93-65-50",
+      "email": "info@polytechnique.ma"
+    },
+    "alt_name": "Institut polytechnique privé de Casablanca",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "Rue 10, No. 2 Lotissement Allaimoun 1, Route d'El Jadida",
+      "postal_code": "20230"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Private School of Accountancy, Audit and Management",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.hecam.ma/",
+      "fax": "+212(532) 39-46-71",
+      "telephone": "+212(523) 39-46-54",
+      "email": "contact@hecam.ma"
+    },
+    "alt_name": "Haute Ecole de Comptabilite d'Audit et Management (HECAM)",
+    "address": {
+      "province": null,
+      "city": "El Jadida",
+      "street": "Lotissement Le Château n°29",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Private School of Engineering of Agadir",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.e-polytechnique.ma",
+      "fax": "+212(528) 21-00-05",
+      "telephone": "+212(528) 23-34-34",
+      "email": "direction@e-polytechnique.ma"
+    },
+    "alt_name": "Ecole polytechnique privée d'Agadir (E-Polytechnique)",
+    "address": {
+      "province": null,
+      "city": "Agadir",
+      "street": "Campus Universiapolis, Bab Al madina, Quartier Tillila, B.P. 8143",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Private School of Tourism and Hotel Management",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.e-tourisme.ma",
+      "fax": "+212(528) 23-06-50",
+      "telephone": "+212(528) 23-66-50  +212(528) 22-26-23",
+      "email": "info@e-tourisme.ma"
+    },
+    "alt_name": "Ecole supérieure de Tourisme et Technologie Hôtelière Privée (ESTTH)",
+    "address": {
+      "province": null,
+      "city": "Agadir",
+      "street": "Bab Al Madina, Qr Tilila, B.P. 8143",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Private University of Fez",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://upf.ac.ma",
+      "fax": "+212(535) 60-18-73",
+      "telephone": "+212(535) 61-03-20",
+      "email": "info@upf.ac.ma"
+    },
+    "alt_name": "Université Privée de Fès (UPF)",
+    "address": {
+      "province": null,
+      "city": "Fès",
+      "street": "Lotissement Quaraouiyine - Route d'Ain Chkef",
+      "postal_code": "30000"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "Royal Institute for Managerial Training in Youth and Sport",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.irfc.ma",
+      "fax": "+212(537) 83-50-81",
+      "telephone": "+212(537) 83-50-80",
+      "email": "contact@irfc.ma"
+    },
+    "alt_name": "Institut royal de Formation des Cadres de la Jeunesse et des Sports (IRFC/JS)",
+    "address": {
+      "province": null,
+      "city": "Salé",
+      "street": "Institut National des Sports Moulay Rachid, Km 12, Route de Meknès",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "Royal Institute of Territorial Administration",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": null,
+      "fax": "+212(537) 37-13-66",
+      "telephone": "+212(537) 37-18-31",
+      "email": null
+    },
+    "alt_name": "Institut royal de l'Administration territoriale (IRAT)",
+    "address": {
+      "province": null,
+      "city": "Kénitra",
+      "street": "3ème Base Militaire",
+      "postal_code": null
+    },
+    "accrediting_agency": "Ministère de l'Intérieur"
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Accountancy and Finance",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.hecfsup.com",
+      "fax": "+212(535) 94-21-89",
+      "telephone": "+212(535) 94-21-73",
+      "email": "hecf@hecfsup.com; moussa@hecfsup.com"
+    },
+    "alt_name": "Ecole des hautes Etudes comptables et financières (HECF)",
+    "address": {
+      "province": null,
+      "city": "Fès",
+      "street": "N° 6 Rue Abi Hamid Al ghazali, Agdal",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Advanced Business and Computer Studies",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.groupeheci.ac.ma",
+      "fax": "+212(522) 21-00-30",
+      "telephone": "+212(522) 50-02-02",
+      "email": "contact@groupeheci.net"
+    },
+    "alt_name": "Ecole des hautes Etudes commerciales et informatiques (HECI)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "66, boulevard de l'Atlantide, Polo n°1",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Advanced Business Technology and Computer Science -Tangiers",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.ehect.net",
+      "fax": "+212(531) 06-06-38",
+      "telephone": "+212(531) 06-06-39",
+      "email": "contact@ehect.net"
+    },
+    "alt_name": "Ecole des hautes Etudes commerciales techniques et informatiques - Tanger (EHECT-Tanger)",
+    "address": {
+      "province": null,
+      "city": "Tanger",
+      "street": "6 rue Mohamed VI, Bella Vista",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Advanced Commercial Studies",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.hec.ac.ma",
+      "fax": "+212(535) 64-05-07",
+      "telephone": "+212(535) 64-33-28",
+      "email": "hecfes@menara.ma"
+    },
+    "alt_name": "Ecole des hautes Etudes commerciales (HEC)",
+    "address": {
+      "province": null,
+      "city": "Fès",
+      "street": "1, rue Jaber Ansari Bouremmana",
+      "postal_code": "30060"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Advanced Studies in Biotechnology",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.eheb.ma",
+      "fax": "+212(522) 99-67-92",
+      "telephone": "+212(522) 99-67-58",
+      "email": "direction@eheb.ma; secretariat@eheb.ma; professeur@eheb.ma; contact@eheb.ma"
+    },
+    "alt_name": "Ecole des hautes Etudes de Biotechnologie (EHEB)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "380, Boulevard Ghandi",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Advanced Studies in Economics and Business",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.ecoleheec.ac.ma",
+      "fax": "+212(524) 31-44-20",
+      "telephone": "+212(524) 31-44-10",
+      "email": "contact@eheec.ac.ma; ecoleheec.ma@gmail.com"
+    },
+    "alt_name": "Ecole des hautes Etudes économiques et commerciales (HEEC)",
+    "address": {
+      "province": null,
+      "city": "Marrakech",
+      "street": "Avenue Allal Fassi, rue Abou Obaïda, en face de la salle couverte Benchakroun, B.P: 1514 - Hay Mohammadi",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Advanced Studies in Information Systems Computing",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.heisi.ma",
+      "fax": null,
+      "telephone": "+212(522) 20-27-66",
+      "email": "info@heisi.ma"
+    },
+    "alt_name": "Ecole des hautes Etudes en Ingénierie des Systèmes d'Information (HEISI)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "14 rue Malouiya, Avenue Hassan II",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Applied Computer Science",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.esia.ma",
+      "fax": "+212(522) 30-32-86",
+      "telephone": "+212(522) 30-64-24 +212(522) 30-63-32",
+      "email": "esia@menara.ma"
+    },
+    "alt_name": "Ecole supérieure d'Informatique appliquée (ESIA)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "Angle Bd de la Résistance, Rue Puissesseau",
+      "postal_code": "20500"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "School of Audiovisual and Cinema Studies",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.ismac.emadariss.net",
+      "fax": null,
+      "telephone": "+212 (537) 77-38-65",
+      "email": "ismac@minicom.gov.ma"
+    },
+    "alt_name": "Institut supérieur des métiers de l'Audiovisuel et du Cinéma (ISMAC)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "BP 10000, Avenue Allal Al Fassi",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Commerce and Business - Casablanca",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.esca.ma/index.php",
+      "fax": "+212(522) 20-91-15",
+      "telephone": "+212(522) 20-91-20",
+      "email": "ibenjelloun@esca.ma; lchaieb@esca.ma"
+    },
+    "alt_name": "Ecole supérieure de Commerce et des Affaires (ESCA)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "7, rue Abou Youssef El Kindy, Bd Moulay Youssef",
+      "postal_code": "20060"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Commerce and Management (Casablanca/ESCM)",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.escm.ma",
+      "fax": "+212(522) 20-97-38",
+      "telephone": "+212(522) 22-04-33",
+      "email": null
+    },
+    "alt_name": "Ecole supérieure de Commerce et de Management – École Supérieure de Commerce et Management du Collège LaSalle (ESCM)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "270, bd Mohamed Zerktouni",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Commerce and Management (ESCG Tanger)",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.escg-a.com",
+      "fax": "+212(539) 95-43-20",
+      "telephone": "+212(539) 95-43-10",
+      "email": "contact@escgt.ma; escg@escg-a.com"
+    },
+    "alt_name": "Ecole supérieure de Commerce et de Gestion (ESCG Tanger)",
+    "address": {
+      "province": null,
+      "city": "Tanger",
+      "street": "Route de Tétouan, Rue Ahmed Attadili (à coté de la Gare Routière)",
+      "postal_code": "90000"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Commerce, Management and Computer Science",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.emcgi.ma",
+      "fax": null,
+      "telephone": "+212(539) 37-34-34",
+      "email": "emcgi@emcgi.ma"
+    },
+    "alt_name": "Ecole des Métiers de Commerce, de Gestion et d’Informatique",
+    "address": {
+      "province": null,
+      "city": "Tanger",
+      "street": "KSAIBI, Rue E, Lot n°3",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Commercial Engineering - Meknès",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.essic.ma",
+      "fax": "+212(535) 51-41-63",
+      "telephone": "+212(535) 51-41-65",
+      "email": "essic@essic.ma"
+    },
+    "alt_name": "Ecole supérieure des Sciences de l'Ingénierie Commerciale - Meknès (ESSIC)",
+    "address": {
+      "province": null,
+      "city": "Meknès",
+      "street": "132, avenue des FAR",
+      "postal_code": "50000"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Communication and Advertising",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.ecolecomsup.com",
+      "fax": "+212(522) 48-07-79",
+      "telephone": "+212(522) 47-30-67",
+      "email": "comsup@comsup.ma"
+    },
+    "alt_name": "Ecole supérieure de Communication et de Publicité (COM' Sup)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "18 Rue Bachir Al Ibrahimi, Quartier Bel Air",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Computer Networks and Management",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.esrim.ma",
+      "fax": "+212(523) 40-47-28",
+      "telephone": "+212(523) 40-27-05/06",
+      "email": "esrim@menara.ma"
+    },
+    "alt_name": "Ecole supérieure des Réseaux Informatiques et de Management (ESRIM)",
+    "address": {
+      "province": null,
+      "city": "Settat",
+      "street": "BP 573, 46, avenue Mohammed V",
+      "postal_code": "2600"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Computer Science and Business Management",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.esima-egc.com",
+      "fax": "+212(523) 34-06-61",
+      "telephone": "+212(523) 34-04-04",
+      "email": "esima@menara.ma; esima@esima-egc.com"
+    },
+    "alt_name": "Ecole supérieure d'Informatique et de Management des Affaires (ESIMA)",
+    "address": {
+      "province": "24000",
+      "city": "El Jadida",
+      "street": "Place EL Hansali Immeuble Mounia",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Computer Science, Telecommunication and Economics - ENITE",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.enite.ma",
+      "fax": "+212(522) 98-77-73",
+      "telephone": "+212(522) 98-77-70",
+      "email": "contact@enite.ma; y.tidli@enite.ma"
+    },
+    "alt_name": "Ecole nouvelle d'Informatique des Télécommunications et d'Economie (ENITE)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "Route d'El Jadida 16, Rue Chasseur Jules, Gros Oasis",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Design and Visual Arts",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.ecole-design.com",
+      "fax": "+212 (522) 368-923",
+      "telephone": "+212 (522) 368-001",
+      "email": "contact@ecole-design.com"
+    },
+    "alt_name": "Ecole supérieure de Design et des Arts Visuels (ESDAV)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "Angle Boulevard Tantan & rue Benguerir, G.H - n°4 Almanar Anfa",
+      "postal_code": "20160"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Design",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.ecole-artcom.com",
+      "fax": "+212(522) 27-46-02",
+      "telephone": "+212(522) 26-84-43  +212(522) 26-18-54",
+      "email": "artcomcasa@ecole-artcom.com; artcomrabat@ecole-artcom.com"
+    },
+    "alt_name": "Ecole supérieure de Design (ArtCom Sup)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "18 rue Bachir Al Ibrahim - quartier Belair",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Engineering in Applied Sciences",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://esisa.ac.ma",
+      "fax": "+212(535) 65-97-90",
+      "telephone": "+212(535) 65-70-95",
+      "email": "info@esisa.ma"
+    },
+    "alt_name": "Ecole supérieure d'Ingénierie en Sciences Appliquées (ESISA)",
+    "address": {
+      "province": null,
+      "city": "Fès",
+      "street": "29 bis Av Ibn Khatib, Route d'Immouzzer",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Human Sciences and Communication",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.suphcom.ma",
+      "fax": "+212(528) 23-05-18",
+      "telephone": "+212(528) 23-33-51  +212(528) 23-33-68",
+      "email": "info@suphcom.ma"
+    },
+    "alt_name": "Ecole supérieure des Sciences Humaines et de Communication (Sup’HCom)",
+    "address": {
+      "province": null,
+      "city": "Agadir",
+      "street": "Universiapolis, Technopôle Agadir, Bab Al Madina, Quartier Tilila, B.P. 8143",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Industrial Management",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.esmi.ma",
+      "fax": "+212(995) 47-94",
+      "telephone": "+212(523) 48-36-81",
+      "email": "contact@esmi.ma"
+    },
+    "alt_name": "Ecole supérieure de Management industriel (ESMI)",
+    "address": {
+      "province": null,
+      "city": "Beni Mellal",
+      "street": "9 Bloc 2, Hay Darkoum",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Industrial Systems Engineering",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.eigsica.ma",
+      "fax": "+212(522) 47-59-38",
+      "telephone": "+212(522) 47-56-03  +212(522) 47-60-32",
+      "email": "admission@eigsica.ma"
+    },
+    "alt_name": "Ecole d'Ingénierie en Génie des Systèmes Industriels de Casablanca (EIGSICA)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "47, Centre des affaires Alla Ben Abdellah",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": "September to July",
+    "funding": "Public",
+    "name": "School of Information Sciences",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.esi.ac.ma",
+      "fax": "+212(537) 77-02-32",
+      "telephone": "+212(537) 77-49-04/07/13",
+      "email": "esi@esi.ac.ma; directionesi@gmail.com"
+    },
+    "alt_name": "Ecole des Sciences de l'Information (ESI)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "Avenue Allal El Fassi, Cité Al Irfane, B.P: 6204 Rabat-instituts",
+      "postal_code": "10000"
+    },
+    "accrediting_agency": "Haut Commissariat au Plan"
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Information Technology, Telecommunication and Management",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.etud-estem.ma",
+      "fax": "+212(522) 26-26-62",
+      "telephone": "+212(522) 26-02-60",
+      "email": "information@estem.ma"
+    },
+    "alt_name": "Ecole supérieure en Ingénierie de l’Information,Télécommunication et de Management (ESTEM)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "4-6, Rue Moussa Bnou Nouceir Bd Moulay Youssef, Quartier Gautier, B.P. 20060",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Interior Architecture",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.ecole-esai.com",
+      "fax": "+212(537) 63-96-94",
+      "telephone": "+212(537) 65-23-10  +212(537) 65-41-20",
+      "email": "info@ecole-esai.com; esai@altavista.net"
+    },
+    "alt_name": "Ecole supérieure d'Architecture d'intérieur (ESAI)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "7, Avenue Ahmed Balafrej, Souissi",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Journalism and Communication (Morocco)",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.esjc.ma",
+      "fax": "+212(522) 26-20-60",
+      "telephone": "+212(522) 26-40-10  +212(522) 26-26-06",
+      "email": "info@esjc.ma"
+    },
+    "alt_name": "Ecole supérieure de Journalisme et de Communication (ESJC)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "37, rue Tata",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Law and Economics",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.eseje.ma",
+      "fax": "+212(523) 32-50-24",
+      "telephone": "+212(523) 30-44-44  +212(523) 32-50-26",
+      "email": "contact@eseje.ma"
+    },
+    "alt_name": "Ecole supérieure des Etudes Juridiques et Economiques (ESEJE)",
+    "address": {
+      "province": "32-50-26",
+      "city": "Mohammedia",
+      "street": "146, NICE 1 - Près de la FST",
+      "postal_code": "28820"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Leadership and Management",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.esdg.ma",
+      "fax": "+212(537) 77-67-60",
+      "telephone": "+212(537) 77-01-83",
+      "email": "info@esdg.ma"
+    },
+    "alt_name": "Ecole supérieure de Direction et de Gestion (EsDG)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "8, rue Oued Souss, Agdal, B.P 774 Agdal",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Management and Applied Computer Engineering",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.esmamaroc.ma",
+      "fax": "+212(524) 33-02-23",
+      "telephone": "+212(524) 33-02-23  +212(524) 33-11-25",
+      "email": "esma@menara.ma"
+    },
+    "alt_name": "Ecole supérieure de Management et d'Ingénierie Informatique Appliqués (ESMA)",
+    "address": {
+      "province": null,
+      "city": "Marrakech",
+      "street": "1, AV My Abdellah (ex Safi), 1 Immeuble Berrada, Rouidate II, Gueliz",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Management and Business Administration",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.emaa.ma",
+      "fax": "+212(528) 21-49-71",
+      "telephone": "+212(528) 21-49-70",
+      "email": "contact@emaa.ma; info@emaa.ma"
+    },
+    "alt_name": "Ecole de Management et d'Administration des Affaires (EMAA)",
+    "address": {
+      "province": null,
+      "city": "Agadir",
+      "street": "N° 105 et 106 Immeuble Ennour, Avenue Hassan 1er, Cité Dakhla",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Management and Communication",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.esmc.ma",
+      "fax": null,
+      "telephone": "+212(522) 20-61-84",
+      "email": "contact@esmc.ma"
+    },
+    "alt_name": "Ecole supérieure de Management et de Communication (ESMC)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "57, Bd Abdelmoumen, Résidence El Hadi",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Management and Computer Sciences",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.egicosup.ma",
+      "fax": "+212(537) 73-25-70",
+      "telephone": "+212(537) 73-25-64",
+      "email": "egicosup.rabat@gmail.com"
+    },
+    "alt_name": "Ecole supérieure de Gestion et des Sciences de l'Informatique (EGICO)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "2, Rue Chouaib Doukkali, les orangers",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": "October to June",
+    "funding": "Private",
+    "name": "School of Management and Human Resource Management",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.suprh.com",
+      "fax": "+212(522) 27-08-08",
+      "telephone": "+212(522) 27-46-27  +212(661) 15-58-04",
+      "email": "contact@suprh.com"
+    },
+    "alt_name": "Ecole supérieure de Management et de Gestion des Ressources Humaines (SUP'RH)",
+    "address": {
+      "province": "20000",
+      "city": "Casablanca",
+      "street": "Immeuble SEMIRAMIS, 20, Rue Mohamed KAMAL, (en face du cinéma Dawliz habous, Av. des FAR)",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": "October to June",
+    "funding": "Private",
+    "name": "School of Management, Commerce and Computer Science - Fès",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.supmanagement.ma",
+      "fax": "+212(535) 65-27-32",
+      "telephone": "+212(535) 65-34-31  +212(55) 94-00-39",
+      "email": "contact@supmanagement.ma; supmgt@menara.ma"
+    },
+    "alt_name": "Ecole supérieure de Management du Commerce et d'Informatique - Fès (Groupe Sup' Management)",
+    "address": {
+      "province": null,
+      "city": "Fès",
+      "street": "28, Place du 11 Janvier, v.n.",
+      "postal_code": null
+    },
+    "accrediting_agency": "EREDU (Europe)"
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Management, Computer Science and Telecommunication",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.mit.ma",
+      "fax": "+212(537) 70-89-73",
+      "telephone": "+212(537) 70-89-89  +212(537) 73-44-09",
+      "email": "mit@mit.ma; sup.mti2@gmail.com; supmti.meknes@gmail.com"
+    },
+    "alt_name": "Ecole supérieure de Management d'Informatique et de Télécommunication (SupMTI)",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "23, avenue Chellah, Hassan",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Management",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.esm.ma",
+      "fax": "+212(522) 30-32-86",
+      "telephone": "+212(522) 30-64-24  +212(522) 30-63-32",
+      "email": "esm1@menara.ma"
+    },
+    "alt_name": "Ecole supérieure de Management (ESM)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "Boulevard de La Résistance, Angle Rue Puissesseau",
+      "postal_code": "20500"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Multimedia, Computer Science and Networks",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.supemir.com",
+      "fax": "+212(522) 47-34-82",
+      "telephone": "+212(522) 47-34-81",
+      "email": "infosupemir@gmail.com; info@supemir.com"
+    },
+    "alt_name": "Ecole supérieure des Multimedia, Informatique et Réseaux (SUPEMIR)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "15 rue Barrii Debass, Avenue Constantinople Mers Sultan",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Psychology",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.psychosup.net",
+      "fax": "+212(522) 95-06-62",
+      "telephone": "+212(522) 95-16-66",
+      "email": "psychosup@menara.ma"
+    },
+    "alt_name": "Ecole supérieure de Psychologie (ESP)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "88 Avenue Ibn Sina, Hay Hassani",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Technology and Management (Morocco)",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.suptem.com",
+      "fax": "+212(539) 93-78-86",
+      "telephone": "+212(539) 37-26-26",
+      "email": "info@groupebmhs.com"
+    },
+    "alt_name": "Ecole supérieure des Sciences Techniques et de Management (SUPTEM TANGER)",
+    "address": {
+      "province": null,
+      "city": "Tanger",
+      "street": "6, rue Mohamed Tazi, Quartier Marshan",
+      "postal_code": "90000"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Telecommunication and Management",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://suptema.monmaroc.net",
+      "fax": "+212(535) 64-12-21",
+      "telephone": "+212(535) 64-12-30",
+      "email": "suptema@yahoo.fr"
+    },
+    "alt_name": "École supérieure de Télécommunications et Management (Sup'Tema)",
+    "address": {
+      "province": null,
+      "city": "Fès",
+      "street": "N°67, Rue Khalid ibn Oualid, Bouramana",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": "September to June (September-January; February-June)",
+    "funding": "Public",
+    "name": "School of Textile and Clothing Industries",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.esith.ac.ma",
+      "fax": "+212(522) 23-15-85",
+      "telephone": "+212(522) 23-41-24/52/65",
+      "email": "esith@esith.ac.ma; admissions@esith.ac.ma"
+    },
+    "alt_name": "Ecole supérieure des Industries du Textile et de l'Habillement (ESITH)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "Route d'Eljadida, km 8, BP 7731 - Oulfa",
+      "postal_code": "20000"
+    },
+    "accrediting_agency": "Ministry of Labour and Vocational Education"
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "School of Visual Arts",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.esavmarrakech.com",
+      "fax": "+212(524) 29-15-75",
+      "telephone": "+212(524) 29-90-00 +212(80) 200-2006",
+      "email": "contact@esavmarrakech.com"
+    },
+    "alt_name": "Ecole supérieure des Arts Visuels Privée (ESAV)",
+    "address": {
+      "province": null,
+      "city": "Marrakech-Amerchich",
+      "street": "BP 4006-400002, 7-9 rue Lakhdar",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "Sidi Mohammed Ben Abdellah University - Fez – Advanced Teacher Training College of Fez",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://ens.usmba.ac.ma",
+      "fax": "+212(535) 65-50-69; +212(535) 72-83-39",
+      "telephone": "+212(535) 65-50-83",
+      "email": "ensfes_direction@yahoo.fr"
+    },
+    "alt_name": "Université Sidi Mohammed Ben Abdellah-Fès – Ecole normale supérieure, Fès (ENS-Fès)",
+    "address": {
+      "province": null,
+      "city": "Fès",
+      "street": "BP 2206, Kariat Ben Souda Ahouaz-Oued",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": "September to June (September-February; February-June)",
+    "funding": "Public",
+    "name": "Sidi Mohammed Ben Abdellah University - Fez",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.usmba.ac.ma",
+      "fax": "+212(535) 60-96-50",
+      "telephone": "+212(535) 60-96-60",
+      "email": "president@usmba.ac.ma"
+    },
+    "alt_name": "Université Sidi Mohammed Ben Abdellah-Fès",
+    "address": {
+      "province": null,
+      "city": "Fès",
+      "street": "BP 2626, Route d'Imouzzer",
+      "postal_code": "30000"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": "September to July",
+    "funding": "Private",
+    "name": "SPECIALIZED INSTITUTE OF APPLIED TECHNOLOGY",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.ofppt.ma",
+      "fax": null,
+      "telephone": "+212(05) 22-63-44-44",
+      "email": "contact@ofppt.ma"
+    },
+    "alt_name": null,
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "Intersection of road B.O. n° 50 and nationale road",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Sultan Moulay Slimane University Beni-Mellal",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.usms.ac.ma",
+      "fax": "+212(523) 48-13-51",
+      "telephone": "+212(523) 48-02-18",
+      "email": "sgpresidence@usms.ma"
+    },
+    "alt_name": "Université Sultan Moulay Slimane Beni-Mellal (USMS)",
+    "address": {
+      "province": null,
+      "city": "Béni Mellal",
+      "street": "BP 591, Av. Ibn khaldoun",
+      "postal_code": "23000"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Sup Technology School",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.suptechnology.ma",
+      "fax": "+212(522) 99-65-96",
+      "telephone": "+212(522) 99-65-66",
+      "email": "infos-casa@suptechnology.ma"
+    },
+    "alt_name": "Ecole supérieure des Hautes Etudes en Technologies de l’Information et de la Communication – Suptechnology (SUP TECH)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "Immeuble 4, Avenue Cadi Iass, Maarif",
+      "postal_code": "20333"
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Superior Institutions of Science and Technology",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.sist.ac.ma",
+      "fax": "+212(522) 21-36-33",
+      "telephone": "+212(522) 21-16-80",
+      "email": "info@sist.ac.ma"
+    },
+    "alt_name": "(SIST- British University)",
+    "address": {
+      "province": null,
+      "city": "Casablanca",
+      "street": "87 Bd Nador, Quartier Polo",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Universiapolis-International University of Agadir",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://universiapolis.ma",
+      "fax": "+212(528) 22-33-68",
+      "telephone": "+212(528) 23-02-30; +212(528) 22-32-10",
+      "email": null
+    },
+    "alt_name": "Universiapolis-Université Internationale d’Agadir",
+    "address": {
+      "province": null,
+      "city": "Agadir",
+      "street": "B.P. 8143,, Bab Al Madina, Qr Tilila",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Public",
+    "name": "University for Islamic Studies",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.darhadit.ac.ma",
+      "fax": "+212(537) 57-15-29",
+      "telephone": "+212(537) 57-15-23",
+      "email": "edhh.sic.web@gmail.com"
+    },
+    "alt_name": "Dar-Al-Hadith Al-Hassania",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "BP: 6549 Al Irfane, Rue Azzaitoune n°456, Hay Arriyad",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": "November to June (November-December; January-March; April-June)",
+    "funding": "Public",
+    "name": "University of Karueein",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": null,
+      "fax": "+212(535) 64-10-13",
+      "telephone": "+212(535) 64-10-06",
+      "email": "facharag@iam.net.ma"
+    },
+    "alt_name": "Université Quaraouiyine",
+    "address": {
+      "province": null,
+      "city": "Fès",
+      "street": "BP 2509",
+      "postal_code": null
+    },
+    "accrediting_agency": null
+  },
+  {
+    "academic_year": null,
+    "funding": "Private",
+    "name": "Vinci Institute of Computer Engineering and Telecommunications Networks",
+    "country": "Morocco",
+    "languages": null,
+    "state": null,
+    "contact": {
+      "website": "http://www.vinci.ma",
+      "fax": "+212(537) 70-69-06",
+      "telephone": "+212(537) 72-84-00",
+      "email": "vinci@vinci.ac.ma"
+    },
+    "alt_name": "Ecole Supérieure Vinci d’ingénierie Informatique et Réseaux de Télécoms",
+    "address": {
+      "province": null,
+      "city": "Rabat",
+      "street": "10 Rue El Yamama",
+      "postal_code": null
+    },
+    "accrediting_agency": "Ministère de l’Enseignement supérieur"
+  }
+]
