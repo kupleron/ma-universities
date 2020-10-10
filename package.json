@@ -1,0 +1,33 @@
+{
+  "name": "ma-universties",
+  "version": "0.0.1",
+  "description": "Moroccan Universities is a simple and lightweight package for retrieving university details with flexibility.",
+  "main": "list.js",
+  "files": [
+    "data/universties.json"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^13.1.0",
+    "tap": "^14.6.1"
+  },
+  "scripts": {
+    "pretest": "standard",
+    "test": "tap test/*.js --100"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kupleron/ma-universities.git"
+  },
+  "keywords": [
+    "morocco",
+    "universities"
+  ],
+  "author": "Kupleron <khalid@souh.al>",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kupleron/ma-universities/issues"
+  },
+  "homepage": "https://github.com/kupleron/ma-universities"
+}
